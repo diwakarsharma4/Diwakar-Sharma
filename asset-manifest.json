@@ -1,0 +1,38 @@
+{
+  "files": {
+    "main.css": "/Diwakar-Sharma/static/css/main.b195406a.css",
+    "main.js": "/Diwakar-Sharma/static/js/main.14cb9d2b.js",
+    "static/js/787.18fed22f.chunk.js": "/Diwakar-Sharma/static/js/787.18fed22f.chunk.js",
+    "static/media/Arvideo1.png": "/Diwakar-Sharma/static/media/Arvideo1.e4c345f86d7feb86a8f4.png",
+    "static/media/Weatherapp.png": "/Diwakar-Sharma/static/media/Weatherapp.4913022fd8154cf6555c.png",
+    "static/media/Wordscramble2.png": "/Diwakar-Sharma/static/media/Wordscramble2.8f3dfea71fb7bcff4761.png",
+    "static/media/portfolio.png": "/Diwakar-Sharma/static/media/portfolio.531f4ff02d92e1188e9c.png",
+    "static/media/Dtool2.png": "/Diwakar-Sharma/static/media/Dtool2.65f753dd8ca2f64d1413.png",
+    "static/media/Dtool3.png": "/Diwakar-Sharma/static/media/Dtool3.fcbc1ae21e88b43f5aa3.png",
+    "static/media/Dtool1.png": "/Diwakar-Sharma/static/media/Dtool1.cb7b29f36c10f82b13d3.png",
+    "static/media/leetcode.png": "/Diwakar-Sharma/static/media/leetcode.7e80f19dc3200739ff20.png",
+    "static/media/Postman.png": "/Diwakar-Sharma/static/media/Postman.5525e719238d6eb41e62.png",
+    "static/media/PythonIcn.png": "/Diwakar-Sharma/static/media/PythonIcn.e3f347b95fd474d38054.png",
+    "static/media/gmail.png": "/Diwakar-Sharma/static/media/gmail.4bdf6627e0898a3a2961.png",
+    "static/media/Visual-studio-codeIcn.png": "/Diwakar-Sharma/static/media/Visual-studio-codeIcn.846946a303cdf7f9534e.png",
+    "static/media/CppIcn.png": "/Diwakar-Sharma/static/media/CppIcn.c714aed4936fa0f9a9ee.png",
+    "static/media/CSharpIcn.png": "/Diwakar-Sharma/static/media/CSharpIcn.665bb820b8c013e0941a.png",
+    "static/media/github.png": "/Diwakar-Sharma/static/media/github.6c75ee05afe7a8976267.png",
+    "static/media/GoIcn.png": "/Diwakar-Sharma/static/media/GoIcn.6a3cd1884425f3b03c7d.png",
+    "static/media/MySQLIcn.png": "/Diwakar-Sharma/static/media/MySQLIcn.01a9f618f56bd568a41a.png",
+    "static/media/JavaIcn.png": "/Diwakar-Sharma/static/media/JavaIcn.490ae4542ec993944cb6.png",
+    "static/media/CIcn.png": "/Diwakar-Sharma/static/media/CIcn.91e24f367f93cf750710.png",
+    "static/media/EclipseIcn.png": "/Diwakar-Sharma/static/media/EclipseIcn.fc107894f2a0b7932fcf.png",
+    "static/media/UnityIcn.png": "/Diwakar-Sharma/static/media/UnityIcn.76ccec41eb234848c4f4.png",
+    "static/media/NodeJSIcn.png": "/Diwakar-Sharma/static/media/NodeJSIcn.0d739f22e4df4fa6c5e1.png",
+    "static/media/right-up-arrow-svgrepo-com.svg": "/Diwakar-Sharma/static/media/right-up-arrow-svgrepo-com.ae52107ba4e5dc968a8accb97007abf7.svg",
+    "index.html": "/Diwakar-Sharma/index.html",
+    "main.b195406a.css.map": "/Diwakar-Sharma/static/css/main.b195406a.css.map",
+    "main.14cb9d2b.js.map": "/Diwakar-Sharma/static/js/main.14cb9d2b.js.map",
+    "787.18fed22f.chunk.js.map": "/Diwakar-Sharma/static/js/787.18fed22f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b195406a.css",
+    "static/js/main.14cb9d2b.js"
+  ]
+}
